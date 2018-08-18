@@ -25,16 +25,16 @@ publication = "*Chemical Reviews*."
 abstract = "This review discusses the many attributes and usages of PX-DNA—its design, characteristics, applications, and potential biological relevance—and aims to accelerate the understanding of PX-DNA motif in its many roles and manifestations."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+# image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["PX-DNA"]
+# projects = ["PX-DNA"]
 
 # Links (optional).
 # url_pdf = "pdf/my-paper-name.pdf"
