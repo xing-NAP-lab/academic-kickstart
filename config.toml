@@ -232,7 +232,7 @@ enableGitInfo = true
     link = "https://scholar.google.com/citations?user=mrXR4oEAAAAJ&hl=en"
 
   [[params.social]]
-    icon = "cv"
+    icon = "web"
     icon_pack = "ai"
     link = "https://science.rpi.edu/chemistry/faculty/xing-wang"
 
