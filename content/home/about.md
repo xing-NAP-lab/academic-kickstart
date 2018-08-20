@@ -34,6 +34,7 @@ weight = 5
  
 +++
 
+
 # Biography
 
 Dr. Xing Wang joined Rensselaer in 2014 as an assistant professor in the Department of Chemistry and Chemical Biology. He is also a faculty member affiliated with the Center for Biotechnology and Interdisciplinary Studies (CBIS), the Biochemistry and Biophysical Program (BCBP), and the Center for Materials, Devices, and Integrated Systems (cMDIS) at RPI. After Dr. Wang obtained his Ph.D. at New York University (with Dr. Ned Seeman ) in 2009, he joined Princeton University as a postdoc fellow (with Dr. Laura Landweber) to explore novel functions of non-coding RNA (small and long) in genome editing and rearrangement.
